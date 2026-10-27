@@ -1,8 +1,6 @@
 import "./IdCard.css";
 
 function IdCard(props) {
-  console.log(props.birth.Date);
-
   return (
     <article className="id-card">
       <img src={props.picture} alt="photo" />

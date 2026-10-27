@@ -8,7 +8,8 @@ body {
   padding: 5px;
 }
 
-.id-card-container {
+main,
+.container {
   display: flex;
   flex-direction: column;
   gap: 5px;
